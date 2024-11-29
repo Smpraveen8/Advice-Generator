@@ -1,0 +1,29 @@
+
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    width: 100vm;
+    height: 100vh;
+    background-color: rgb(8, 83, 86);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div{
+    text-align: center;
+}
+
+.one{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+.button{
+
+    color: aqua;
+    background-color: rgb(21, 132, 196);
+    font-size: 20px;
+    padding: 10px 15px;
+}
